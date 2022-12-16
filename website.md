@@ -90,7 +90,7 @@ pie chart of top 3 genres
 
 ### What has been the evolution of the female share ?
 As seen in the female share averages across the most movie producing-countries and famous genres, the scene is clearly dominated by men. However, the previous analyses give no information about the evolution of the female share. A country, being aware of the inequalities in the movie industry, that decides to make more equal role movies despite it's past.... 
-
+jklsdhkjdfhfd
 
 
 
