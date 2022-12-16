@@ -15,7 +15,7 @@ Through this project, the gender inequalities will be assessed in a quantitative
 
 
 # General overview of the data
-In order to have a better feel for the data we are using, let's explore by visualizing what we were given.
+In order to have a better feel for the data we are using, let's explore it by visualizing what we were given.
 
 ## Where does the data come from ? 
 The data from which our analysis will be based consists of 42'306 movie plot summaries extracted from Wikipedia. In addition to that, some movie metadata was also extracted from Freebase such as country, language, genre, characters, information about the actors/actresses playing the characters, movie runtime and release date.
@@ -66,28 +66,40 @@ In the table below, the top 10 most producing countries and frequently represent
 
 ## ROMANA ET MATHIAS
 
-# Getting into the heart of the matter
+# Quantitative analysis of women's underrepresentation in movies
 
-Now that we have a better overview of the data that was used, let's get into the actual analysis of the inequalities. Are these inequalities still present today? Have they evolved in time? For the better of for the worse? Theses questions will be answered by making a quantitative and qualitaitve analysis of women in the film industry.
+Now that we have a better overview of the data that was used, let's get into the actual analysis of the inequalities. Are these inequalities still present today? Have they evolved in time? For the better or for the worse? 
 
-## Quantitative analysis of women's underrepresentation in movies
 In order to quantify the discrepancy between the number of men and women in movies, a 'Female share' index was created as:
 
 $Female \quad share = \frac{Number \quad of \quad women}{Number \quad of \quad men \quad + \quad Number \quad of \quad women}$
 
 If the value of the index is close to zero: the movie is men-dominated, close to one: female-dominated, close to 0.5: equal number of actors and actresses.
 
-Using a ratio rather than absolute values makes the analysis robust to the increasing number of movies (hence yearly number of actors/actresses cast) these last decades. As it can be seen in the following plots:
+Using a ratio rather than absolute values makes the analysis robust to the increasing number of movies over these last decades (hence yearly number of actors/actresses cast). As it can be seen in the following plots, although the number of movie produced has seen a great boost starting around the 1960's. the proportion of women compared to men does not seem to have known a significant increase on a global scale.
 
 number-FS_evolution.png
-
-Although the number of movie produced has seen a great boost starting around the 1960's. the proportion of women compared to men does not seem to have know a significant increase on a global scale.
 
 ### Is the situation the same for every country ?
 piechart of top 3 countries
 hello
+
 ### And for every genre ? 
 
 pie chart of top 3 genres
+
+### What has been the evolution of the female share ?
+As seen in the female share averages across the most movie producing-countries and famous genres, the scene is clearly dominated by men. However, the previous analyses give no information about the evolution of the female share. A country, being aware of the inequalities in the movie industry, that decides to make more equal role movies despite it's past.... 
+
+
+
+
+
+
+
+
+
+
+
 
 
